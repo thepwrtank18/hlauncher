@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\bin\Debug\Half-Life Launcher.exe.config
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\bin\Debug\Half-Life Launcher.exe
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\bin\Debug\Half-Life Launcher.pdb
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half-Life Launcher.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half_Life_Launcher.hlauncher.resources
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half-Life Launcher.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half-Life Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half-Life Launcher.exe
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half-Life Launcher.pdb
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\bin\Debug\Half-Life Launcher.exe.manifest
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\bin\Debug\Half-Life Launcher.application
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half-Life Launcher.exe.manifest
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\Half-Life Launcher.application
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\hlauncher.Properties.Resources.resources
+C:\Users\Leo\Desktop\hlml\Half-Life Launcher\obj\Debug\hlauncher.advanced.resources
